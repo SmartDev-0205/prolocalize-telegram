@@ -1,3 +1,82 @@
-eth:0xc1fb91068526a87b79c75097a1032b8d70ba393c
-bsc:0xb7f0c899697f822c0a6c415e09e73629e811385b
-arb:0xf52ebea7b851e452ece018fbd753bd6cb5387e36eth
+[
+    {
+        "address": "0x1A42d0886ca6c4B77702e26ECB8C5Aa2F03EC17b",
+        "top_rate": 4,
+        "token_name": "CTRL",
+        "token_address": "0x556bb0b27e855e6f2cebb47174495b9bbeb97ff1",
+        "profit_rate": 0,
+        "reason": " Win rate is 75.00%"
+    },
+    {
+        "address": "0xE7B42E517DDD8172383467A8aDED492fEeBc60da",
+        "top_rate": 4,
+        "token_name": "EARN",
+        "token_address": "0x12ed0641242e4c6c220e3ca8f616e9d5470ac99a",
+        "profit_rate": 0,
+        "reason": " Average profit is $6665.69"
+    },
+    {
+        "address": "0x994569A90D3e5aaE76173907Fb640D34FC91562b",
+        "top_rate": 6,
+        "token_name": "EARN",
+        "token_address": "0x12ed0641242e4c6c220e3ca8f616e9d5470ac99a",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0xce2187F07fC9205fF47C43495B0688b6f0B749c7",
+        "top_rate": 6,
+        "token_name": "INVOKE",
+        "token_address": "0xc5bdc51fe7235d18b35b3ba841d470616d91562d",
+        "profit_rate": 0,
+        "reason": " Total PNL by roi is 12743.00%"
+    },
+    {
+        "address": "0xf9cAFEb32467994e3AFfd61E30865E5Ab32ABE68",
+        "top_rate": 15,
+        "token_name": "INVOKE",
+        "token_address": "0xc5bdc51fe7235d18b35b3ba841d470616d91562d",
+        "profit_rate": 0,
+        "reason": " Win rate is 71.21%"
+    },
+    {
+        "address": "0xFDa8228459266540E58e5a6796463fa564E46558",
+        "top_rate": 2,
+        "token_name": "DOVA",
+        "token_address": "0x06a4385d11b64be7248db210eca0a04a558608a5",
+        "profit_rate": 0,
+        "reason": " Average profit is $9884.98, Win rate is 100.00%"
+    },
+    {
+        "address": "0x50bD15765Ce37d01f0A63E0b7Fa59997df54d056",
+        "top_rate": 5,
+        "token_name": "DOVA",
+        "token_address": "0x06a4385d11b64be7248db210eca0a04a558608a5",
+        "profit_rate": 0,
+        "reason": " Average profit is $15642.49, Win rate is 100.00%"
+    },
+    {
+        "address": "0x0381D6C67DC491960F91913E5FF89f5C88888888",
+        "top_rate": 8,
+        "token_name": "DOVA",
+        "token_address": "0x06a4385d11b64be7248db210eca0a04a558608a5",
+        "profit_rate": 0,
+        "reason": " Average profit is $8755.49, Win rate is 100.00%"
+    },
+    {
+        "address": "0xd002bDb75ce47C5325F7aF47f0C372358345DEFF",
+        "top_rate": 17,
+        "token_name": "DOVA",
+        "token_address": "0x06a4385d11b64be7248db210eca0a04a558608a5",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0x5Aab17c875dFDB87549d75acB21EC2eeaB6A1625",
+        "top_rate": 19,
+        "token_name": "GROKX",
+        "token_address": "0x2388821b40f3ab780f09e97b42b7b577d37a6d5e",
+        "profit_rate": 0,
+        "reason": " Total PNL by roi is 3757.97%"
+    }
+]
