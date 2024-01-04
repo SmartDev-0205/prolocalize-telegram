@@ -1,82 +1,106 @@
 [
     {
-        "address": "0x1A42d0886ca6c4B77702e26ECB8C5Aa2F03EC17b",
+        "address": "0x795076b0F5ceA89E45a493acd2721F330FD79B73",
+        "top_rate": 15,
+        "token_name": "INSP",
+        "token_address": "0x186ef81fd8e77eec8bffc3039e7ec41d5fc0b457",
+        "profit_rate": 0,
+        "reason": " Total PNL is $101160.74"
+    },
+    {
+        "address": "0x87d63B96ca7695775fddE18ADE27480143F9dfA0",
+        "top_rate": 22,
+        "token_name": "INSP",
+        "token_address": "0x186ef81fd8e77eec8bffc3039e7ec41d5fc0b457",
+        "profit_rate": 0,
+        "reason": " Win rate is 76.19%"
+    },
+    {
+        "address": "0xBff5c7cd2d9C2838636079546c85BCdbF24B0122",
+        "top_rate": 38,
+        "token_name": "CAPO",
+        "token_address": "0xc5f5ca2ff261735367bcf5cf499674558096792b",
+        "profit_rate": 0,
+        "reason": " Total PNL is $169922.52"
+    },
+    {
+        "address": "0x4c98b01a1aA8CE90091dC74B84B508E6F0C0f56B",
         "top_rate": 4,
-        "token_name": "CTRL",
-        "token_address": "0x556bb0b27e855e6f2cebb47174495b9bbeb97ff1",
+        "token_name": "FLASH",
+        "token_address": "0x825e392a09144a797725f708e2a135d72a659303",
+        "profit_rate": 0,
+        "reason": " Total PNL is $54317.16"
+    },
+    {
+        "address": "0x2079a65425D8AC51d25c8c4fED4bF671F052F8d3",
+        "top_rate": 38,
+        "token_name": "FLASH",
+        "token_address": "0x825e392a09144a797725f708e2a135d72a659303",
+        "profit_rate": 0,
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0xd360b99497Aa4C66d6F8d375de18255a31eDa5e4",
+        "top_rate": 2,
+        "token_name": "EREKT",
+        "token_address": "0xcc7c2146b16850e532605cdb07f18c62cb066962",
+        "profit_rate": 0,
+        "reason": " Average profit is $5198.96, Win rate is 100.00%"
+    },
+    {
+        "address": "0xC11bFc99D094d82B11848A7C9d1d43d8679aE4bD",
+        "top_rate": 3,
+        "token_name": "EREKT",
+        "token_address": "0xcc7c2146b16850e532605cdb07f18c62cb066962",
         "profit_rate": 0,
         "reason": " Win rate is 75.00%"
     },
     {
-        "address": "0xE7B42E517DDD8172383467A8aDED492fEeBc60da",
-        "top_rate": 4,
-        "token_name": "EARN",
-        "token_address": "0x12ed0641242e4c6c220e3ca8f616e9d5470ac99a",
-        "profit_rate": 0,
-        "reason": " Average profit is $6665.69"
-    },
-    {
-        "address": "0x994569A90D3e5aaE76173907Fb640D34FC91562b",
-        "top_rate": 6,
-        "token_name": "EARN",
-        "token_address": "0x12ed0641242e4c6c220e3ca8f616e9d5470ac99a",
-        "profit_rate": 0,
-        "reason": " Win rate is 100.00%"
-    },
-    {
-        "address": "0xce2187F07fC9205fF47C43495B0688b6f0B749c7",
-        "top_rate": 6,
-        "token_name": "INVOKE",
-        "token_address": "0xc5bdc51fe7235d18b35b3ba841d470616d91562d",
-        "profit_rate": 0,
-        "reason": " Total PNL by roi is 12743.00%"
-    },
-    {
-        "address": "0xf9cAFEb32467994e3AFfd61E30865E5Ab32ABE68",
-        "top_rate": 15,
-        "token_name": "INVOKE",
-        "token_address": "0xc5bdc51fe7235d18b35b3ba841d470616d91562d",
-        "profit_rate": 0,
-        "reason": " Win rate is 71.21%"
-    },
-    {
-        "address": "0xFDa8228459266540E58e5a6796463fa564E46558",
-        "top_rate": 2,
-        "token_name": "DOVA",
-        "token_address": "0x06a4385d11b64be7248db210eca0a04a558608a5",
-        "profit_rate": 0,
-        "reason": " Average profit is $9884.98, Win rate is 100.00%"
-    },
-    {
-        "address": "0x50bD15765Ce37d01f0A63E0b7Fa59997df54d056",
+        "address": "0xaeF09b228e06dEF7DE5Fe925eE1426117053C5D9",
         "top_rate": 5,
-        "token_name": "DOVA",
-        "token_address": "0x06a4385d11b64be7248db210eca0a04a558608a5",
+        "token_name": "EREKT",
+        "token_address": "0xcc7c2146b16850e532605cdb07f18c62cb066962",
         "profit_rate": 0,
-        "reason": " Average profit is $15642.49, Win rate is 100.00%"
+        "reason": " Win rate is 75.00%"
     },
     {
-        "address": "0x0381D6C67DC491960F91913E5FF89f5C88888888",
-        "top_rate": 8,
-        "token_name": "DOVA",
-        "token_address": "0x06a4385d11b64be7248db210eca0a04a558608a5",
-        "profit_rate": 0,
-        "reason": " Average profit is $8755.49, Win rate is 100.00%"
-    },
-    {
-        "address": "0xd002bDb75ce47C5325F7aF47f0C372358345DEFF",
-        "top_rate": 17,
-        "token_name": "DOVA",
-        "token_address": "0x06a4385d11b64be7248db210eca0a04a558608a5",
+        "address": "0x4971f9118e260719965C4475008Cc27Be469C9cf",
+        "top_rate": 23,
+        "token_name": "EREKT",
+        "token_address": "0xcc7c2146b16850e532605cdb07f18c62cb066962",
         "profit_rate": 0,
         "reason": " Win rate is 100.00%"
     },
     {
-        "address": "0x5Aab17c875dFDB87549d75acB21EC2eeaB6A1625",
-        "top_rate": 19,
-        "token_name": "GROKX",
-        "token_address": "0x2388821b40f3ab780f09e97b42b7b577d37a6d5e",
+        "address": "0xb5BB393e1EC0298003fee62540130537e72aecbe",
+        "top_rate": 27,
+        "token_name": "EREKT",
+        "token_address": "0xcc7c2146b16850e532605cdb07f18c62cb066962",
         "profit_rate": 0,
-        "reason": " Total PNL by roi is 3757.97%"
+        "reason": " Win rate is 100.00%"
+    },
+    {
+        "address": "0xEfAe7395C20EB28f4f9810e8688a5Ea79E1e24eD",
+        "top_rate": 8,
+        "token_name": "INSP",
+        "token_address": "0x186ef81fd8e77eec8bffc3039e7ec41d5fc0b457",
+        "profit_rate": 0,
+        "reason": " Total PNL is $3247270.50"
+    },
+    {
+        "address": "0xbC627254fa9e73117cb70E1D4Eed610Ba0a9DE0D",
+        "top_rate": 17,
+        "token_name": "INSP",
+        "token_address": "0x186ef81fd8e77eec8bffc3039e7ec41d5fc0b457",
+        "profit_rate": 0,
+        "reason": " Total PNL is $650758.15"
+    },
+    {
+        "address": "0x90F080Ae4218A4c088BBF00A74af9850d1773366",
+        "top_rate": 38,
+        "token_name": "INSP",
+        "token_address": "0x186ef81fd8e77eec8bffc3039e7ec41d5fc0b457",
+        "profit_rate": 0,
+        "reason": " Total PNL is $58293.15"
     }
 ]

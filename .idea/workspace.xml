@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="060bd575-7485-4997-b72e-465a8ee48c4a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/2023-05-10-Telegram bot - Final.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/2023-05-10-Telegram bot - Final.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot.log" beforeDir="false" afterPath="$PROJECT_DIR$/bot.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/last_run_time.txt" beforeDir="false" afterPath="$PROJECT_DIR$/log/last_run_time.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/latest_tx_hashes.json" beforeDir="false" afterPath="$PROJECT_DIR$/log/latest_tx_hashes.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/watched_wallets.txt" beforeDir="false" afterPath="$PROJECT_DIR$/log/watched_wallets.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/watched_wallets.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,7 +204,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
-          <line>294</line>
+          <line>295</line>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
       </breakpoints>

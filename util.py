@@ -15,7 +15,7 @@ BUYAMOUNT = 0.01
 # Update the following variables with your own Etherscan and BscScan API keys and Telegram bot token
 TELEGRAM_BOT_TOKEN = '6572191448:AAHq-uSccoF8qFuTyD0Bu7w8P6Iewf-z3dI'
 # TELEGRAM_CHAT_ID = '-4072982727'
-TELEGRAM_CHAT_ID = '-1002053285892'
+TELEGRAM_CHAT_ID = '-4082724720'
 
 
 BLOCKCHAIN_NAME = "ETH"

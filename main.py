@@ -93,6 +93,7 @@ def monitor_wallets():
     if os.path.exists(last_run_time_path):
         with open(last_run_time_path, "r") as f:
             last_run_time = int(f.read())
+    last_run_time = int(time.time())
     while True:
         try:
             # Read from file
@@ -293,4 +294,4 @@ print(f"[{time.strftime('%Y-%m-%d %H:%M:%S')}] Monitoring wallets...")
 #            'parse_mode': 'HTML'}
 # response = requests.post(url, data=payload)
 print('Stated bot')
-# monitor_wallets()
+monitor_wallets()
